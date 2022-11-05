@@ -1,15 +1,20 @@
-#columna1 {
-    background-color: aqua;
+body {
+    background-color: lightblue;
 }
-#columna2  {
-    background-color: bisque;
+#colPers {
+    background-color: rgb(151, 202, 219);
+    margin-top: 7%;  
+    padding: 2%;  
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 18px;
 }
-#columna3  {
-    background-color:blue;
+
+#imagenLogin{
+    height: 100px;
+    margin-bottom: 5%;
 }
-#columna4  {
-    background-color:brown
-}
-#columna5  {
-    background-color:chartreuse;
+
+::placeholder {
+    font-size: 15px;
 }

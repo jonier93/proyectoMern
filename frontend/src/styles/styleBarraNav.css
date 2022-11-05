@@ -8,3 +8,7 @@
 .blockBarra{
     background-color: black;
 }
+
+button:hover {
+    background-color: blueviolet;
+}
