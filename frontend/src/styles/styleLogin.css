@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+}
+#colPers {
+    background-color: rgb(151, 202, 219);
+    margin-top: 4%;  
+    padding: 2%;  
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 18px;
+}
+
+#imagenLogin{
+    height: 100px;
+    margin-bottom: 5%;
+}
+
+::placeholder {
+    font-size: 15px;
+}
